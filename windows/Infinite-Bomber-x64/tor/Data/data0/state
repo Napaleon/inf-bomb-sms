@@ -1,0 +1,27 @@
+# Tor state file last generated on 2019-09-09 13:05:42 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=C381468CDA4A90664F0889A6AE334547AEE4D9B4 nickname=powerlay sampled_on=2019-08-28T15:55:15 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=65689BA57B89E47127ABEDFE19580FE2509F3BBF nickname=haedus sampled_on=2019-08-30T14:56:03 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=5D0EE066618A7D01CBBFFD301DA41F4DFC67A330 nickname=quepaso sampled_on=2019-09-04T15:45:22 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=81C55D403A82BF6E7C3FBDBD41D102B7088900D9 nickname=InMemoryOfJohnKerr sampled_on=2019-09-07T19:57:57 sampled_by=0.4.0.5 listed=1 confirmed_on=2019-09-05T15:59:53 confirmed_idx=2
+Guard in=default rsa_id=B25427A8F4A485E03EDA31757AB1C33DBE587428 nickname=DefinitelyNotTheFBI sampled_on=2019-09-06T23:37:40 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=0B25110BA3473A6DC04AB58A3A0D5E4D6922A0E0 nickname=colosimo sampled_on=2019-09-07T15:51:30 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=55580D71B317A072F4A4DCF6EA4EDB015734AEE7 nickname=VeilsOfTheOnion sampled_on=2019-09-04T09:26:42 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=67CDF7A4D06E98E55AAE595BBEBF38E64C4CCBF3 nickname=khao sampled_on=2019-08-30T22:03:16 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=EBB799FADD615E93CA97BE5583E5EB97DD21E10F nickname=OperationUrbanWolf sampled_on=2019-09-03T23:04:26 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=5A14FBBBAF842124A0AF3C650F4302C5B549AB17 nickname=Trenton sampled_on=2019-09-09T06:07:46 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=3BB035514F8246AC367B5370F4FE120BB11D8C6D nickname=kerly sampled_on=2019-08-30T15:38:08 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=2E23B75B9D9AB7B86D1D5AB1C9B6B30BA0E84E3E nickname=Unnamed sampled_on=2019-09-01T16:21:03 sampled_by=0.4.0.5 listed=1 confirmed_on=2019-08-29T06:02:44 confirmed_idx=1 pb_use_attempts=39.000000 pb_use_successes=39.000000 pb_circ_attempts=52.000000 pb_circ_successes=51.000000 pb_successful_circuits_closed=51.000000 pb_timeouts=1.000000
+Guard in=default rsa_id=2880A4D6A33F9BECF2AE106D2951965A97527E96 nickname=jacktheripper sampled_on=2019-08-30T22:46:53 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=1D9BC44F68668367BA02D5C60CB8D3F41B089EE8 nickname=Bandie sampled_on=2019-09-06T02:40:21 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=126B4C9F0964D7F68467D2CD641528BEACF89977 nickname=hellzone sampled_on=2019-08-31T14:38:02 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=2465032B08D2858F7112DDABB1673FF0FE9D486C nickname=Unnamed sampled_on=2019-09-03T04:14:25 sampled_by=0.4.0.5 listed=1 confirmed_on=2019-09-05T03:05:42 confirmed_idx=0 pb_use_attempts=16.000000 pb_use_successes=3.000000 pb_circ_attempts=22.000000 pb_circ_successes=22.000000 pb_successful_circuits_closed=3.000000 pb_collapsed_circuits=6.000000 pb_unusable_circuits=13.000000
+Guard in=default rsa_id=F0EF52BEE400B27430DCA9D144FA0C3DE0099FEC nickname=yoona sampled_on=2019-08-29T10:55:08 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=C37F87C0125E26E6ACF54366FA2198209E856ABE nickname=pataky sampled_on=2019-09-07T05:52:15 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=968921B60AB71D8CA92ABC61370F34DE3C7E4E03 nickname=m247 sampled_on=2019-08-28T21:33:34 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=36EFABA1FFE1D0246B36C141F9226F4F09B8951C nickname=tor02aditaa sampled_on=2019-08-29T19:20:10 sampled_by=0.4.0.5 listed=1
+TorVersion Tor 0.4.0.5 (git-bf071e34aa26e096)
+LastWritten 2019-09-09 10:05:42
+Dormant 0
